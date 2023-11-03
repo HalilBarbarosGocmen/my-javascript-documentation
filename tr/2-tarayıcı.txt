@@ -1,0 +1,4 @@
+TARAYICI :
+
+ * Tarayıcıolarak Google Chrome kullan.
+ * Mac ile command + option + + j yaparak, windows ve linux'da ise ctrl + shift + j ile tarayıcıda console'u açabiliriz.

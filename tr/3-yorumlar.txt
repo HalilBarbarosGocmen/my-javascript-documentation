@@ -1,0 +1,14 @@
+YORUMLAR :
+
+ * Tek Satırlı Açıklama :
+
+ // Bu ilk yorum
+ // Bu ikinci yorum
+ // Bu üçüncü yorum
+
+ * Çok satırlı açıklama :
+ 
+ 
+ /* Busatırlı bir yorumdur. 
+ Çok satırlı yorumlar birden çok satır alabilir. 
+ JavaScript web'in dilidir.*/

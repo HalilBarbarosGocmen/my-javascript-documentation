@@ -1,0 +1,3 @@
+KURULUM :
+
+ * Node.js kur. Kurduktan sonra terminale node -v yaz ve kurulu olup olmadığını veya güncel olup olmadığını gör.

@@ -1,0 +1,44 @@
+CREATING JAVASCRIPT CODE ON A WEB PAGE:
+
+ * Inline creation.
+ * Internal creation.
+ * External creation.
+ * Multiple external creations.
+
+ INLINE CREATION:
+
+ * <button onclick="alert('BarbarosGöçmen')">Click Me</button>
+
+
+
+
+
+ INTERNAL CREATION:
+
+
+ * <body>
+    <script>
+        console.log('BarbarosGöçmen');
+    </script>
+ </body>
+
+
+
+
+
+ EXTERNAL CREATION:
+
+
+ <head>
+    <title>BarbarosGöçmen</title>
+    <script src="introduction.js"></script>
+ </head>
+
+
+
+
+
+ MULTIPLE EXTERNAL CREATIONS:
+
+
+ * External creation follows the same logic, but you can include multiple JS files."

@@ -1,0 +1,66 @@
+INTRODUCTION TO DATA TYPES:
+
+ * In JavaScript and other programming languages, there are different data types. JavaScript primitive data types include: String, Number, Boolean, Undefined, Null, and Symbol.
+
+
+
+
+
+ NUMBERS:
+
+ * Integers.
+ * Floating-point numbers.
+ * Examples: 0, 1, 2, 3, -2, -3, -3.5, 0.0
+
+
+
+
+
+ STRINGS:
+
+ * Textual values consisting of one or more characters enclosed in single quotes, double quotes, or backticks.
+ * Examples: 'Halil', 'Barbaros', 'Göçmen'
+
+
+
+
+
+ BOOLEAN:
+
+ * The Boolean data type can only take or return the values true or false.
+
+
+
+
+
+ UNDEFINED:
+
+ * In JavaScript, if we don't assign a value to a variable, its value becomes undefined. Additionally, if a function doesn't return anything, it is implicitly undefined.
+ * Example:
+
+ let myName;
+ console.log(myName); // Undefined, because no value has been assigned to the variable.
+
+
+
+
+
+ NULL:
+
+ * In JavaScript, null represents an empty value.
+
+ * Example:
+
+ let emptyValue = null;
+
+
+
+
+
+ CHECKING DATA TYPES:
+
+ * console.log(typeof 'Barbaros'); // String
+ * console.log(typeof 5); // Number
+ * console.log(typeof true); // Boolean
+ * console.log(typeof null); // Object Type
+ * console.log(typeof undefined); // Undefined

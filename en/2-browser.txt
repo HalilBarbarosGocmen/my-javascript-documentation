@@ -1,0 +1,4 @@
+BROWSER:
+
+ * Use Google Chrome as the browser.
+ * On Mac, you can open the browser console with 'Command + Option + J,' while on Windows and Linux, you can use 'Ctrl + Shift + J.'

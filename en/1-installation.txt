@@ -1,0 +1,3 @@
+INSTALLATION:
+
+ * Install Node.js. After installation, open the terminal and type 'node -v' to check whether it is installed or up to date.

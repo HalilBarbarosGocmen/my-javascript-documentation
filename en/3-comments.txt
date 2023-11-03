@@ -1,0 +1,15 @@
+COMMENTS:
+
+ * Single-Line Comment:
+
+ // This is the first comment
+ // This is the second comment
+ // This is the third comment
+
+
+ * Multi-Line Comment:
+
+ /* This is a multi-line comment.
+   Multi-line comments can span multiple lines.
+   JavaScript is the language of the web. */
+ 

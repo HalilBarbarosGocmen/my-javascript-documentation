@@ -1,0 +1,8 @@
+ARİTMETİK İŞLEMLER :
+
+   * console.log(2+3); // Toplama
+   * console.log(3-2); // Çıkarma
+   * console.log(2*3); // Çarpma
+   * console.log(3/2); // Bölme
+   * console.log(3%2); // Mod Alma
+   * console.log(3**2); // Üs Alma

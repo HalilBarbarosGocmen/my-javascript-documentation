@@ -1,0 +1,35 @@
+BİR WEB SAYFASINDA JAVASCRİPT KODLARI OLUŞTURMA :
+
+   * Satır içi oluşturma.
+   * Dahili oluşturma.
+   * Harici oluşturma.
+   * Çoklu harici oluşturma.
+
+   SATIR İÇİ OLUŞTURMA :
+
+   * <button onclick = "alert('BarbarosGöçmen')"> Bana Tıkla </button>
+
+
+   DAHİLİ OLUŞTURMA :
+
+
+   * <body>
+       <script>
+        console.log("BarbarosGöçmen");
+        </script>
+     </body>
+
+
+     HARİCİ OLUŞTURMA :
+
+
+   * <head>
+        <title>BarbarosGöçmen</title>
+        <script src = "introdiction.js"></script>
+        </head>
+
+
+    ÇOKLU HARİCİ OLUŞTURMA :
+
+
+   * Harici oluşturma ile aynı mantığa sahiptir sadece birden fazla js dosyası ekleyebiliriz.

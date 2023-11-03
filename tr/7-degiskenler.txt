@@ -1,0 +1,31 @@
+DEĞİŞKENLER :
+
+
+ * Değişkenlere veri kapsayıcılar diyebiliriz. Unutmayınıx ki değişkenler, verileri belleklerde (ram) saklar. Bir değişken atandığında belleklerde kendisi için yer ayrılır. Bir değişkene bir değer (veri) atandığında, bellek alanı bu verilerle doldurulur. Değişken tanımlamak için var, let veya const keywords'lerini kullanırız.
+ * Değişken değerinin kodumuzun farklı yerlerinde değiştirilmesi gerekiyorsa let kullanırız. Eğer değişken verisi hiçbir yerde değişmeyecek ise bu durumda const kullanırız.
+ * Geçerli bir JavaScript değişken adı aşağıdaki kurallara uymalıdır :
+  - JavaScript değişken adı bir sayı ile başlamaz.
+  - Dolar işareti ve alt çizgi dışında özel karakter olmaz.
+  - camelCase kuralına uyulmalı.
+  - Sözcükler arasında boşluklar olmamalı.
+
+
+
+
+
+DEĞİŞKEN TANIMLAMA ÖRNEKLERİ :
+
+
+ * let ad = "Barbaros";
+ * let soyAd = 'Göçmen'
+ * let yas = 23;
+ * let evliMi = false
+ - console.log(ad, soyAd, yas, evliMi); = Barbaros Göçmen 23 false
+
+ * const yerCekimi = 9.81;
+ * const pi = 3,14;
+
+ * let isim = "BarbarosGöçmen",
+   is = "Yazılımcı",
+   konum = "İstanbul";
+ - console.log(isim, is, konum); = BarbarosGöçmen Yazılımcı İstanbul

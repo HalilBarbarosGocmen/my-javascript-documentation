@@ -1,0 +1,50 @@
+VERİ TÜRLERİNE GİRİŞ :
+
+
+ * JavaScript'te ve diğer programlama dillerinde farklı tiplerde veri türleri vardır. JavaScript ilkel veri tipleri şunlardır : String (Metin) - Number (Sayı) - Boolean (True-False) - Undefined (Tanımsız) - Null (Boş) ve Symbol (Sembol).
+
+
+ SAYILAR :
+
+
+ * Tam sayılar.
+ * Ondalıklı sayılar.
+ * 0, 1, 2, 3, -2, -3, -3.5, 0.0
+
+
+ STRİNG :
+
+
+ * Tek tırnak, çift tırnak, veya ters tırnak (backtick) arasında yer alan bir veya daha fazla karakterden oluşan metinsel değerlerdir.
+ * "Halil" , 'Barbaros' , `Göçmen`
+
+
+ BOOLEAN :
+
+
+ * Boolean veri türü yalnızca true veya false değer alır - dönderir.
+
+
+ UNDEFINED (TANIMSIZ) :
+
+
+ * JavaScript'te bir değişkene bir değer atamaz isek değeri undefined olarak alır. Buna ek olarak bir fonksiyon hiçbir şey döndürmüyorsa, döndereceği tanım undefined'tır.
+ * let ismim :
+   console.log(ismim); // Undefined, çünkü henüz değişkene bir değer atanmamış.
+
+
+ NULL (BOŞ) :
+
+
+ * JavaScript'te null boş bir değer anlamına gelir.
+ * let bosDeger = null;
+
+
+ VERİ TÜRLERİNİ KONTROL ETME :
+
+
+ * console.log(typeof "Barbaros"); // String
+ * console.log(typeof 5); // Number
+ * console.log(typeof true); // Boolean
+ * console.log(typeof null); // Object Type
+ * console.log(typeof undefined); // Undefined

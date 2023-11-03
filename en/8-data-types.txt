@@ -1,0 +1,34 @@
+DATA TYPES:
+
+ * let numOne = 3
+ * let numTwo = 3
+ - console.log(numOne == numTwo); = true
+
+ * let js = 'JavaScript'
+ * let py = 'Python'
+ - console.log(js == py); = false
+
+ * let lightOn = true
+ * let lightOff = false
+ - console.log(lightOn == lightOff); = false
+
+ * let nums = [1, 2, 3]
+ * nums[0] = 10
+ - console.log(nums); = [10, 2, 3] (We have changed the value of the first element, which is at index 0, in the 'nums' variable to 10.)
+
+ * let nums = [1, 2, 3]
+ * let numbers = [1, 2, 3]
+ - console.log(nums == numbers); = false
+
+ * let userOne = {
+ * name: 'Barbaros',
+ * role: 'Developer',
+ * country: 'Turkey'
+ }
+
+ * let userTwo = {
+ * name: 'Barbaros',
+ * role: 'Developer',
+ * country: 'Turkey'
+ }
+ - console.log(userOne == userTwo); = false"
