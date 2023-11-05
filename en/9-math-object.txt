@@ -1,0 +1,34 @@
+MATH OBJECT :
+
+ * In JavaScript, the Math object provides a wide range of methods for working with numbers.
+
+ * const PI = Math.PI // We automatically obtain the value of PI through the Math object.
+  - console.log(PI) // 3.1415926535
+
+ * console.log(Math.round(PI)) // It rounds to 3 since 3.14 is closer to 3.
+
+ * console.log(Math.round(9.81)) // Since the tenths place is above 0.5, it rounds to 10.
+
+ * console.log(Math.floor(PI)) // `floor` rounds down, so it becomes 3.
+
+ * console.log(Math.ceil(PI)) // `ceil` rounds up, making it 4.
+
+ * console.log(Math.min(-5, 3, 20, 4, 5, 10)) // It finds the smallest number, and the result is -5.
+
+ * console.log(Math.max(-5, 3, 20, 4, 5, 10)) // It finds the largest number, and the result is 20.
+
+  RANDOM NUMBER GENERATION:
+
+ * In JavaScript, the Math object's `random()` method generates a number between 0 and 0.999999999.
+
+ * `let randomNum = Math.random()
+
+ * Now, let's see how to use the `random()` method to generate a random number between 0 and 10.
+
+ * let randomNum = Math.random
+   let numBetweenZeroAndTen = randomNum * 11
+   console.log(numBetweenZeroAndTen)
+
+ * let randomNumRoundedToFloor = Math.floor(numBetweenZeroAndTen)
+   console.log(randomNumRoundedToFloor)
+

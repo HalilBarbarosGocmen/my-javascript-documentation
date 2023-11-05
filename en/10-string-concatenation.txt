@@ -1,0 +1,8 @@
+STRING CONCATENATION :
+
+ * let space = ' '
+   let firstName = 'Barbaros'
+   let lastName = 'Göçmen'
+
+   let fullName = firstName + space + lastName;
+   console.log(fullName); // Barbaros Göçmen

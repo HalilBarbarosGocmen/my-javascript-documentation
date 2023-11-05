@@ -1,4 +1,4 @@
-INTRODUCTION TO DATA TYPES:
+INTRODUCTION TO DATA TYPES :
 
  * In JavaScript and other programming languages, there are different data types. JavaScript primitive data types include: String, Number, Boolean, Undefined, Null, and Symbol.
 

@@ -1,4 +1,4 @@
-ARITHMETIC OPERATIONS:
+ARITHMETIC OPERATIONS :
 
  * console.log(2+3); // Addition
  * console.log(3-2); // Subtraction

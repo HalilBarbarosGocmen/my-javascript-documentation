@@ -1,0 +1,53 @@
+MATEMATİK NESNESİ - OBJESİ :
+
+ * JavaScript'te Math Objesi sayılar ile çalışmanız için fazlasıyla yöntem sağlar.
+ 
+ * const PI = Math.PI // Math objesi sayesined PI sayısını otomatik olarak alıyoruz.
+  - console.log(PI) // 3,1415926535
+
+ * console.log(Math.round(PI)) // 3,14 olduğu için 3'e yuvarlıyor.
+
+ * console.log(Math.round(9.81)) // Ondası 0.5 üstünde olduğu için 10 yapar.
+
+ * console.log(Math.floor(PI)) // floor aşağı yuvarlar bu yüzden 3 olur.
+
+ * console.log(Math.ceil(PI)) // ceil yukarı yuvarlar bu yüzden 4 olur.
+
+ * console.log(Math.min(-5,3,20,4,5,10)) // En küçük sayıyı bulur sonuç -5 döner.
+
+ * console.log(Math.max(-5,3,20,4,5,10)) // En büyük sayıyı bulur sonuç 20 döner.
+
+
+
+ * const randNum = Math.random() // 0 ile 0.999999 arasında rastgele sayı üretir.
+  - console.log(randNum)
+
+   const num = Math.floor(Math.random()*11) // 0 ile 10 arasında sayı üretir.
+  - console.log(num)
+
+ * console.log(Math.abs(-10)) // Mutlak değer 10.
+
+ * console.log(Math.sqrt(100)) // Kare kök 10.
+
+ * console.log(Math.pow(3,2)) // Üs 9.
+
+
+
+
+
+ RASTGELE SAYI ÜRETME :
+
+ * JavaScript'te Math Nesnesi random() methodu 0 ile 0,999999999 arasında bir sayı üretir.
+
+ * let randomNum = Math.random()
+
+ * Şimdi 0 ile 10 arasında rastgele bir sayı üretmek için random() methodunu nasıl kullanacağımızı görelim.
+
+ * let randomNum = Math.random
+   let numBtnZeroAndTen = randomNum * 11
+   console.log(numBtnZeroAndTen)
+
+   let randomNumRountToFloor = Math.floor(numBtnZeroAndTen)
+   console.log(randomNumRountToFloor)
+
+ 

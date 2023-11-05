@@ -1,4 +1,4 @@
-CREATING JAVASCRIPT CODE ON A WEB PAGE:
+CREATING JAVASCRIPT CODE ON A WEB PAGE :
 
  * Inline creation.
  * Internal creation.

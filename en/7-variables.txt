@@ -1,4 +1,4 @@
-VARIABLES:
+VARIABLES :
 
  * Variables can be thought of as data containers. It's important to remember that variables store data in memory (RAM). When a variable is assigned, memory space is allocated for it. When a value (data) is assigned to a variable, that memory space is filled with the data. We use the 'var,' 'let,' or 'const' keywords to declare variables.
 
