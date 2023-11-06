@@ -1,0 +1,16 @@
+ŞABLON DEĞİŞMEZLERİ (ŞABLON STRİNGLER) :
+
+ * Şablon strinleri oluşturmak için iki ters tırnak (backtick kullanıyoruz).
+   Verileri bir şablon string'i içine ifade olarak ekleme yapabiliriz.
+   Verileri eklemek için ifadeyi $ (dolar) işareti ile başlayan bir küme parantezinin "{}" içine alırız.
+
+
+ * let a = 2
+   let b = 3
+   console.log(`The sum of ${a} and ${b} is ${a+b}`)
+
+
+ * let a = 2
+   let b = 2
+   console.log(`${a} is greater than ${b} : ${a>b}`) // 2 is greater than 3 : false
+

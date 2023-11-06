@@ -1,0 +1,13 @@
+TEMPLATE LITERALS (TEMPLATE STRINGS) :
+
+ * To create template strings, we use two backticks.
+   We can insert data as expressions into a template string.
+   To insert data, we enclose the expression in curly braces "{}" and start it with a dollar sign $.
+
+ * let a = 2
+   let b = 3
+   console.log(`The sum of ${a} and ${b} is ${a + b}`)
+
+ * let a = 2
+   let b = 2
+   console.log(`${a} is greater than ${b} : ${a > b}`) // 2 is greater than 3 : false
